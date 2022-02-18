@@ -3,7 +3,7 @@
  */
 
 #pragma once
-
+#pragma GCC diagnostic ignored "-Wunused-function"
 #include <list>
 #include <vector>
 #include <iostream>

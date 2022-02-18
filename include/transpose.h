@@ -86,6 +86,8 @@ class Transpose
                  const int numThreads, 
                  const int *threadIds = nullptr,
                  const bool useRowMajor = false );
+      
+      Transpose() {}
 
       Transpose(const Transpose &other);
 

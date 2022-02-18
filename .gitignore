@@ -8,3 +8,5 @@ data/
 html/
 latex/
 old/
+*.so
+*.a
