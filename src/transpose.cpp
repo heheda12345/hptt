@@ -21,10 +21,10 @@
 #include <omp.h>
 #endif
 
-#include "../include/utils.h"
+#include "../include/utils_hptt.h"
 #include "../include/macros.h"
 #include "../include/compute_node.h"
-#include "../include/utils.h"
+#include "../include/utils_hptt.h"
 #include "../include/hptt_types.h"
 #include "../include/plan.h"
 #include "../include/transpose.h"
